@@ -1,4 +1,4 @@
-# Philips_Fullstack_Developer
+#              Philips_Fullstack_Developer ![Philips](C:\Projetos\Bootcamps\Philips_Fullstack_Developer\Philips_Fullstack_Developer\images\Philips.png)
 
 ------
 
@@ -7,8 +7,7 @@
 ##### Links Úteis
 
 - [Documentação Typora](https://typora.io/)
-
-- [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)	
+- [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
 
 ------
 
