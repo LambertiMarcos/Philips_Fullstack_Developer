@@ -6,8 +6,9 @@
 
 ##### Links Úteis
 
-[Documentação Typora](https://typora.io/)
-[Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)	
+- [Documentação Typora](https://typora.io/)
+
+- [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)	
 
 ------
 
@@ -17,8 +18,8 @@
 - Introdução ao Git e ao Github
 - Criação de websites com HTML5 e CSS3
 - Criação de websites com Bootstrap
-- Sixtaxe Básica em javaScript
-- Trabalhando com Módulos, funções, coleções em javaScript
+- Sixtaxe Básica em JavaScript
+- Trabalhando com Módulos, Funções, Coleções em javaScript
 - Debugging e Error handling
 - Orientação a Objetos
 - Introdução ao TypeScript
@@ -26,4 +27,4 @@
 - Sql Server
 - Dominando IDEs Java
 - Orientação a objetos com Java
-- Spring Frameworkcom Spring Boot
+- Spring Framework com Spring Boot
