@@ -1,2 +1,29 @@
 # Philips_Fullstack_Developer
-Repositório para dos arquivos do Bootcamps da Dio Philips Fullstack Developer
+
+------
+
+ *Bootcamps da Dio Philips Fullstack Developer*
+
+##### Links Úteis
+
+[Documentação Typora]: https://typora.io/
+[Sintaxe Basica Markdown]: https://www.markdownguide.org/getting-started/
+
+------
+
+##### Conteúdo:
+
+- Lógica de Programação
+- Introdução ao Git e ao Github
+- Criação de websites com HTML5 e CSS3
+- Criação de websites com Bootstrap
+- Sixtaxe Básica em javaScript
+- Trabalhando com Módulos, funções, coleções em javaScript
+- Debugging e Error handling
+- Orientação a Objetos
+- Introdução ao TypeScript
+- Introdução ao Angular
+- Sql Server
+- Dominando IDEs Java
+- Orientação a objetos com Java
+- Spring Frameworkcom Spring Boot
