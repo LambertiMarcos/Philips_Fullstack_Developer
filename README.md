@@ -6,8 +6,8 @@
 
 ##### Links Úteis
 
-[Documentação Typora]: https://typora.io/
-[Sintaxe Basica Markdown]: https://www.markdownguide.org/getting-started/
+[Documentação Typora](https://typora.io/)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)	
 
 ------
 
