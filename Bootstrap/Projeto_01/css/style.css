@@ -1,0 +1,123 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Arial', Helvetica , sans-serif, "Open-Sans", "Special Elite";
+}
+
+html, body{
+	height: 100%;
+}
+
+.navbar {
+	background-color:#FFF;
+}
+
+.navbar-brand {
+	padding-left: 35px;
+}
+
+.nav-item {
+	padding-left: 35px;
+}
+
+.container-fluid {
+	display:flex;
+	width: 100%;
+	height:80vh;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding:20px;
+}
+h3 {
+	color:#848484;
+}
+.imagem {
+	margin-bottom:20px;
+	border-radius:10px;
+}
+.d-flex {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.p-6 {
+	margin: 50px;
+}
+
+
+/* sessaõ 4 */
+
+section.sessao_4{
+	background-color: #191919;
+	padding: 120px 0;
+	text-align: center;
+}
+
+.media-social .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 150px;
+  padding-left: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border: 1px solid rgba(255, 255, 255, .09);
+  background: rgba(255,255,255,0.05);
+  color: white;
+
+}
+
+.media-social .fa:hover {
+    opacity: 0.8;
+    color: #58FAF4;
+    text-decoration:none;
+    transform: scale(1.2);
+
+}
+/*
+.fa-facebook {
+	color: white;
+}
+
+.fa-twitter {
+  	color: white;
+}
+
+.fa-google {
+	border: 1px solid rgba(255, 255, 255, .09);
+	background: rgba(255,255,255,0.05);
+  	color: white;
+}
+
+.fa-linkedin {
+	border: 1px solid rgba(255, 255, 255, .09);
+	background: rgba(255,255,255,0.05);
+	color: white;
+}
+*/
+.media-social p{
+	margin-top: 30px;
+}
+.media-social p, h2{
+	padding: 30px;
+	color: #696969;
+}
+
+
+footer{
+	padding: 40px 2%;
+	background:#fff;
+	color:#CCCCCC;
+	font-size: 14px;
+}
+
+footer p:nth-of-type(1){
+	float: left;
+}
+
+footer p:nth-of-type(2){
+	float: right;
+
+}
