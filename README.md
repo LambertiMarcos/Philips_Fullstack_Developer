@@ -11,8 +11,10 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <br>
 ![Badge em Desenvolvimento](https://img.shields.io/github/languages/count/LambertiMarcos/Philips_Fullstack_Developer)
-
-   
+<br>
+![Badge em Desenvolvimento](https://img.shields.io/github/commit-activity/w/LambertiMarcos/Philips_Fullstack_Developer/main)
+<br>
+![Badge em Desenvolvimento](https://img.shields.io/github/repo-size/LambertiMarcos/Philips_Fullstack_Developer)
 ##### Links Úteis
 
 - [Documentação Typora](https://typora.io/)
