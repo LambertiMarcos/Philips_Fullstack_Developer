@@ -15,10 +15,12 @@
 ![Badge em Desenvolvimento](https://img.shields.io/github/commit-activity/w/LambertiMarcos/Philips_Fullstack_Developer/main)
 <br>
 ![Badge em Desenvolvimento](https://img.shields.io/github/repo-size/LambertiMarcos/Philips_Fullstack_Developer)
+
 ##### Links Úteis
 
 - [Documentação Typora](https://typora.io/)
 - [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
+- [shields](https://shields.io/)
 
 ------
 
