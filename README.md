@@ -3,8 +3,9 @@
    <img src="https://user-images.githubusercontent.com/32144061/161287822-4445be31-c770-4792-9e53-5c5f3ef8cd3b.png" width="250px" />
 </div>
 
-
+<div align="justify">
  O <b>bootcamp Philips Fullstack Developer</b> é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento e tecnologia da informação. Você vai aprender com experiências educacionais práticas como criar aplicações e projetos do zero ao código final. Este programa é uma iniciativa do projeto You Are You, que tem o objetivo de fomentar a diversidade e inclusão em seu time e no ecossistema tecnológico como um todo. As contratações serão exclusivas para pessoas desenvolvedoras de grupos de Diversidade.
+</div>
 
 ##### Links Úteis
 
