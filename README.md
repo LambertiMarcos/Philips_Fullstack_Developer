@@ -6,7 +6,13 @@
 <div align="justify">
  O <b>bootcamp Philips Fullstack Developer</b> é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento e tecnologia da informação. Você vai aprender com experiências educacionais práticas como criar aplicações e projetos do zero ao código final. Este programa é uma iniciativa do projeto You Are You, que tem o objetivo de fomentar a diversidade e inclusão em seu time e no ecossistema tecnológico como um todo. As contratações serão exclusivas para pessoas desenvolvedoras de grupos de Diversidade.
 </div>
+<br>
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<br>
+![Badge em Desenvolvimento](https://img.shields.io/github/languages/count/LambertiMarcos/Philips_Fullstack_Developer)
+
+   
 ##### Links Úteis
 
 - [Documentação Typora](https://typora.io/)
@@ -32,7 +38,7 @@
 - Spring Framework com Spring Boot
 
 
-
+:construction: Projeto em construção :construction:
 
 
 ## Sobre mim
